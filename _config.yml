@@ -1,2 +1,3 @@
+site.baseurl: "https://uncommonhacks.github.io/emoji-test/"
 gems:
   - jekyll-redirect-from
